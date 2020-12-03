@@ -79,11 +79,11 @@
 #### [NIC using VGGNet-19 with Soft Attention](Neural_Image_Captioning_(NIC)_using_VGGNet_19_with_Soft_Attention.ipynb)
 
 * VGGNet-19을 사용하여 어텐션(attention) 정보를 시각적으로 잘 표현할 수 있습니다.
-* ResNet-101과 비교했을 때 성능은 조금 떨어지지만 용량이 적어 효율적
+* ResNet-101과 비교했을 때 성능은 조금 떨어지지만 모델의 크기(용량)
 
 ![image](https://user-images.githubusercontent.com/16822641/100955415-d82b2600-3559-11eb-95c5-35c1e687029e.png)
 
-* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
+* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 * Validation BLEU scores
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
