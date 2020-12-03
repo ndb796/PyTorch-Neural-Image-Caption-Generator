@@ -18,7 +18,8 @@
 |---|---|---|---|---|
 |NIC|60.54|38.94|25.50|16.99|
 
-* **[학습된 모델 다운로드 (NIC using ResNet-101 1.64MB)]()**
+* **[학습된 인코더 모델 다운로드 (NIC using ResNet-101 165MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/ERnDZFI8KD9OrX8rZGB4zucBLL1C2OQl5zdEIj9M23VH8A)**
+* **[학습된 디코더 모델 다운로드 (NIC using ResNet-101 16MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EfpMfIRuTy1NndX8U7C70XMBmu6wd3JofEo5T-uyIP8YOA)**
 
 #### [NIC using ResNet-152](Neural_Image_Captioning_(NIC)_using_ResNet_152.ipynb)
 
@@ -28,4 +29,5 @@
 |---|---|---|---|---|
 |NIC|53.45|34.20|21.79|14.17|
 
-* **[학습된 모델 다운로드 (NIC using ResNet-152 1.64MB)]()**
+* **[학습된 인코더 모델 다운로드 (NIC using ResNet-152 225MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EYnv1WJvdBFHlavWFfP9t4IBO_etYTh6bRpu1LmKgz1g-A)**
+* **[학습된 디코더 모델 다운로드 (NIC using ResNet-152 16)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EfNwJM0ZzUZMpYyS8MQUDkABwfxQQg5kILMlrzBJoGcpIA)**
