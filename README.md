@@ -21,6 +21,12 @@
 * **[학습된 인코더 모델 다운로드 (NIC using ResNet-101 165MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/ERnDZFI8KD9OrX8rZGB4zucBLL1C2OQl5zdEIj9M23VH8A)**
 * **[학습된 디코더 모델 다운로드 (NIC using ResNet-101 16MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EfpMfIRuTy1NndX8U7C70XMBmu6wd3JofEo5T-uyIP8YOA)**
 
+* 캡션 생성 예시
+
+![image](https://user-images.githubusercontent.com/16822641/100955005-1116cb00-3559-11eb-9662-7ab78c84b5d2.png)
+
+> &lt;start&gt; a man is climbing a rock wall . &lt;end&gt;
+
 #### [NIC using ResNet-152](Neural_Image_Captioning_(NIC)_using_ResNet_152.ipynb)
 
 * 동일한 하이퍼 파라미터에서 ResNet-152로 바꾸면 다음과 같이 성능이 오히려 떨어질 수 있습니다.
