@@ -8,10 +8,11 @@
 * 흔히 NIC라고 알려진 네트워크를 제안한 논문입니다.
 * NIC 학습/평가 전체 소스코드는 Google Colab을 이용해 실행할 수 있도록 작성했습니다.
 * 성능 비교를 위하여 광범위한 실험을 진행했습니다.
+* 학습용 데이터셋: <b>Flickr8k</b>
 
 #### [NIC using ResNet-101](Neural_Image_Captioning_(NIC)_using_ResNet_101.ipynb)
 
-* ResNet-101을 이용할 때 상대적으로 학습 효율이 좋았습니다.
+* ResNet-101을 이용할 때 상대적으로 학습 효율이 높았습니다.
 * <b>5번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 
 |Cumulative (표준)|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
@@ -51,10 +52,11 @@
 * 흔히 NIC with Attention이라고 알려진 네트워크를 제안한 논문입니다.
 * NIC with Attention 학습/평가 전체 소스코드는 Google Colab을 이용해 실행할 수 있도록 작성했습니다.
 * 성능 비교를 위하여 광범위한 실험을 진행했습니다.
+* 학습용 데이터셋: <b>Flickr8k</b>
 
 #### [NIC using ResNet-101 with Soft Attention](Neural_Image_Captioning_(NIC)_using_ResNet_101_with_Soft_Attention.ipynb)
 
-* ResNet-101을 이용할 때 상대적으로 학습 효율이 좋았습니다.
+* ResNet-101을 이용할 때 상대적으로 학습 효율이 높았습니다.
 * <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
 * Validation BLEU scores
 
@@ -79,7 +81,7 @@
 #### [NIC using VGGNet-19 with Soft Attention](Neural_Image_Captioning_(NIC)_using_VGGNet_19_with_Soft_Attention.ipynb)
 
 * VGGNet-19을 사용하여 어텐션(attention) 정보를 시각적으로 잘 표현할 수 있습니다.
-* ResNet-101과 비교했을 때 성능은 조금 떨어지지만 모델의 크기(용량)
+* ResNet-101과 비교했을 때 성능은 조금 떨어지지만, 모델의 크기(용량)가 작다는 장점이 있습니다.
 
 ![image](https://user-images.githubusercontent.com/16822641/100955415-d82b2600-3559-11eb-95c5-35c1e687029e.png)
 
