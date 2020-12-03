@@ -30,4 +30,4 @@
 |NIC|53.45|34.20|21.79|14.17|
 
 * **[학습된 인코더 모델 다운로드 (NIC using ResNet-152 225MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EYnv1WJvdBFHlavWFfP9t4IBO_etYTh6bRpu1LmKgz1g-A)**
-* **[학습된 디코더 모델 다운로드 (NIC using ResNet-152 16)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EfNwJM0ZzUZMpYyS8MQUDkABwfxQQg5kILMlrzBJoGcpIA)**
+* **[학습된 디코더 모델 다운로드 (NIC using ResNet-152 16MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EfNwJM0ZzUZMpYyS8MQUDkABwfxQQg5kILMlrzBJoGcpIA)**
