@@ -83,6 +83,8 @@
 
 ![image](https://user-images.githubusercontent.com/16822641/100955415-d82b2600-3559-11eb-95c5-35c1e687029e.png)
 
+> &lt;start&gt; a brown dog runs through the grass &lt;end&gt;
+
 * <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 * Validation BLEU scores
 
