@@ -115,18 +115,18 @@
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
-|NIC with Attention|||||
+|NIC with Attention|66.31|43.55|27.06|16.52|
 
 * Testing BLEU scores (beam size = 3)
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
-|NIC with Attention|||||
+|NIC with Attention|61.67|44.41|31.22|21.74|
 
 * Testing BLEU scores (beam size = 5)
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
-|NIC with Attention|||||
+|NIC with Attention|64.50|46.77|32.87|22.78|
 
-* **[학습된 모델 다운로드 (NIC using ResNet-152 with Soft Attention MB)]()**
+* **[학습된 모델 다운로드 (NIC using ResNet-152 with Soft Attention 377MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EeAOMYU6OOVJlk9HzJLZIFoByEHCMBb04EHfteVefROMGA?e=rUHLhM)**
