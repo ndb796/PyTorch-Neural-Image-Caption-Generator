@@ -107,3 +107,26 @@
 |NIC with Attention|62.87|45.03|31.25|21.44|
 
 * **[학습된 모델 다운로드 (NIC using VGGNet-19 with Soft Attention 158MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EaS9knMWuv5Nr6-eeWwoTG8BvZNuR5YtJiJ8vRhe4vFvsw)**
+
+#### [NIC using ResNet-152 with Soft Attention](Neural_Image_Captioning_(NIC)_using_ResNet_152_with_Soft_Attention.ipynb)
+
+* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
+* Validation BLEU scores
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|||||
+
+* Testing BLEU scores (beam size = 3)
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|||||
+
+* Testing BLEU scores (beam size = 5)
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|||||
+
+* **[학습된 모델 다운로드 (NIC using ResNet-152 with Soft Attention MB)]()**
