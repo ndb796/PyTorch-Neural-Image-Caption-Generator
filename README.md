@@ -57,7 +57,7 @@
 #### [NIC using ResNet-101 with Soft Attention](Neural_Image_Captioning_(NIC)_using_ResNet_101_with_Soft_Attention.ipynb)
 
 * ResNet-101을 이용할 때 상대적으로 학습 효율이 높았습니다.
-* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
+* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 * Validation BLEU scores
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
@@ -110,7 +110,8 @@
 
 #### [NIC using ResNet-152 with Soft Attention](Neural_Image_Captioning_(NIC)_using_ResNet_152_with_Soft_Attention.ipynb)
 
-* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
+* ResNet-101과 비교하여 조금 더 높은 성능을 얻을 수 있습니다.
+* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 * Validation BLEU scores
 
 ||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
