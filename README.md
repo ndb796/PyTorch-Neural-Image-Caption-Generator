@@ -14,11 +14,11 @@
 * ResNet-101을 이용할 때 상대적으로 학습 효율이 좋았습니다.
 * <b>5번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다.
 
-|Cumulative BLEU Scores (표준)|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|Cumulative (표준)|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
 |NIC|60.54|38.94|25.50|16.99|
 
-|Individual BLEU Scores|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|Individual|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
 |NIC|60.54|25.05|10.93|5.02|
 
@@ -35,11 +35,11 @@
 
 * 동일한 하이퍼 파라미터에서 ResNet-152로 바꾸면 다음과 같이 성능이 오히려 떨어질 수 있습니다.
 
-|Cumulative BLEU Scores (표준)|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|Cumulative (표준)|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
 |NIC|53.45|34.20|21.79|14.17|
 
-|Individual BLEU Scores|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|Individual|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
 |---|---|---|---|---|
 |NIC|53.45|21.89|8.84|3.89|
 
