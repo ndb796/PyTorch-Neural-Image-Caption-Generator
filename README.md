@@ -73,3 +73,24 @@
 * VGGNet-19을 사용하여 어텐션(attention) 정보를 시각적으로 잘 표현할 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/16822641/100955415-d82b2600-3559-11eb-95c5-35c1e687029e.png)
+
+* <b>10번의 Epoch을 반복</b>하여 다음과 같은 성능을 낼 수 있었습니다
+* Validation BLEU scores
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|64.40|41.41|25.19|15.24|
+
+* Testing BLEU scores (beam size = 3)
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|62.84|44.73|31.08|21.49|
+
+* Testing BLEU scores (beam size = 5)
+
+||BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|---|---|---|---|---|
+|NIC with Attention|62.87|45.03|31.25|21.44|
+
+* **[학습된 모델 다운로드 (NIC using VGGNet-19 with Soft Attention 158MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EaS9knMWuv5Nr6-eeWwoTG8BvZNuR5YtJiJ8vRhe4vFvsw)**
